@@ -34,6 +34,7 @@ Este projeto simples implementa uma arquitetura de microsserviços utilizando **
 - **Quarkus**
 - **PostgreSQL**
 - **Keycloak** para autenticação e autorização.
+- **Docker** para subir os containers do PostgreSQL e Keycloak.
 
 ## Endpoints
 
