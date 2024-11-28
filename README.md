@@ -1,6 +1,6 @@
 # Microsserviços com Quarkus, PostgreSQL e Keycloak
 
-Este projeto implementa uma arquitetura de microsserviços utilizando **Quarkus**, **PostgreSQL** e **Keycloak**. A aplicação é dividida em três microsserviços: **Customer**, **Product** e **Order**. Cada microsserviço é estruturado em camadas típicas de uma arquitetura de software: `Entity`, `DTO`, `Repository`, `Service` e `Controller`.
+Este projeto simples implementa uma arquitetura de microsserviços utilizando **Quarkus**, **PostgreSQL** e **Keycloak**. A aplicação é dividida em três microsserviços: **Customer**, **Product** e **Order**. Cada microsserviço é estruturado em camadas típicas de uma arquitetura de software: `Entity`, `DTO`, `Repository`, `Service` e `Controller`.
 
 ## Estrutura do Projeto
 
