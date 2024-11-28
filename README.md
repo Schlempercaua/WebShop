@@ -35,7 +35,7 @@ Este projeto simples implementa uma arquitetura de microsserviços utilizando **
 - **PostgreSQL**
 - **Keycloak** para autenticação e autorização.
 
-##Endpoints
+## Endpoints
 
 **Customer Service**
 - GET /customers: Lista todos os clientes.
